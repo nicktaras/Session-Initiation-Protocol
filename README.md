@@ -45,7 +45,11 @@ SIP:
 - Cisco, tried to do the same thing (to make money out of the open standard)
 - SIP, wasn't made for VOIP, it was made to manage the State of a System, but adopted for VoIP
 
+SIP is Versatile
 
+- Calls
+- Instant messaging
+- Presence
 
 
 
