@@ -91,6 +91,9 @@ B. 401 unauthorised (send another message with auth)
 C. 403 forbidden
 D. 404 not found
 E. 405 Method not found
+F. 408 Timeout, disconnect
+G. 480 Temporairily unavailble
+
 
 
 
