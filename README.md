@@ -45,13 +45,13 @@ ONE of the most reliable ways of communication, even today.
 - Cisco, tried to do the same thing (to make money out of the open standard)
 - SIP, wasn't made for VOIP, it was made to manage the State of a System, but adopted for VoIP
 
-Versatile
+### Versatile
 
 - Calls
 - Instant messaging
 - Presence
 
-SIP Signalling
+### SIP Signalling
 
 - Keep Alive (options)
 - SIP Register, is an alternative to Keep Alive (A provider determines the rules)
@@ -59,6 +59,51 @@ SIP Signalling
 - I'm trying to make a call "SIP TRYING"
 - I've found a destination and rining it ("RINING")
 - End call ("BYE")
+
+### SIP Messages
+
+- Provisional Responses 100 messages
+
+A. 100 'Trying' (Server knows I'm working on connecting)
+B. 180 'Ringing'
+C. 181 'Call being forwarded'
+D. 183 'Session Progress' Information is being established
+
+100 - doens't ring.
+180 - means it's actually ringing
+
+- 200 messages
+
+A. Success 200
+B. Accepted 202, but not done on the server side
+
+- 300 messages, Redirect Responses
+
+A. 300 Mulitple Choices (destination found, but many options)
+B. 301 Moved permanently 
+C. 302 Move Temporarily
+D. 305 Use Proxy, info about how to re-connect with Proxy
+
+- 400 messages, Redirect Responses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
