@@ -93,6 +93,9 @@ D. 404 not found
 E. 405 Method not found
 F. 408 Timeout, disconnect
 G. 480 Temporairily unavailble
+H. 488 Not going to handle this request
+
+- 500 messages, Server Failure Responses
 
 
 
