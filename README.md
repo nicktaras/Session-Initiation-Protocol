@@ -1,4 +1,5 @@
-# SIP
+# SIP - Session Initiation Protocol
+
 SIP - Learning
 
 # HISTORY:
@@ -30,4 +31,23 @@ T1/E1 PRI (Primary Interface)
 - E1 = 32 Channels
 - Contains B Channels (calls) and one Channel D (Signalling - trying to make call, waiting)
 - Limited redundancy capabilities
+
+SIP Trunking
+
+- VOIP
+- Unlimited Channels, contstrained by Bandwidth
+- Delivery over IP Circuits (Internet, Dedicated, MPLS)
+- Many redundancy capabilities (flexible, to re-direct keep online)
+
+SIP:
+
+- It changes the playing field, because it was an Open Standard (modern telephony over IP)
+- Cisco, tried to do the same thing (to make money out of the open standard)
+- SIP, wasn't made for VOIP, it was made to manage the State of a System, but adopted for VoIP
+
+
+
+
+
+
 
