@@ -1,7 +1,7 @@
-# sip
+# SIP
 SIP - Learning
 
-# History:
+# HISTORY:
 
 Analogue
 [TIP & Ring Telephony]
@@ -29,6 +29,5 @@ T1/E1 PRI (Primary Interface)
 - T1 = 24 Channels
 - E1 = 32 Channels
 - Contains B Channels (calls) and one Channel D (Signalling - trying to make call, waiting)
-
-
+- Limited redundancy capabilities
 
