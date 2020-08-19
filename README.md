@@ -86,6 +86,12 @@ D. 305 Use Proxy, info about how to re-connect with Proxy
 
 - 400 messages, Redirect Responses
 
+A. 400 bad request
+B. 401 unauthorised (send another message with auth)
+C. 403 forbidden
+D. 404 not found
+E. 405 Method not found
+
 
 
 
