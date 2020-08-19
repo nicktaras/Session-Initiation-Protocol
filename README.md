@@ -55,8 +55,10 @@ SIP Signalling
 
 - Keep Alive (options)
 - SIP Register, is an alternative to Keep Alive (A provider determines the rules)
-- I need to make a call, "SIP Invite"
-- 
+- I need to make a call, "SIP INIVTE"
+- I'm trying to make a call "SIP TRYING"
+- I've found a destination and rining it ("RINING")
+- End call ("BYE")
 
 
 
