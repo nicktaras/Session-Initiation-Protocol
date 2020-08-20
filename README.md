@@ -120,11 +120,11 @@ s= is a session name
 u= resource
 e= email
 c= Connection data (direction) IP
-t= 
+t=time stamps
 a= Type e.g. recieve only
-m=
-m=
-a=
+m=video
+m=audio
+a=h263 type
 
 
 
