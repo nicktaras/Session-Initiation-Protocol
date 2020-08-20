@@ -127,7 +127,7 @@ m=audio
 a=h263 type
 
 
-
+B2B-UA = Back to Back User Agent
 
 
 
