@@ -147,6 +147,9 @@ Different Port = Different Direction
 - Review all the network ongoings
 - You can filter by SIP using the Telephony and review all the SIP packets
 
+PCMU
+http://www.grandstream.com/support/faq/common-questions/video/voice/speech-codecs
+
 
 
 
