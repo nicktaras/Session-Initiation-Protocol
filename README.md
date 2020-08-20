@@ -139,6 +139,8 @@ Ladder Diagram (attach).
 
 Telephone numbers are not used, there are userIDs instead.
 
+Different Port = Different Direction
+
 # Practical
 
 - Install Wireshark
