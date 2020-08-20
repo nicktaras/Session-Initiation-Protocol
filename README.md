@@ -96,6 +96,36 @@ G. 480 Temporairily unavailble
 H. 488 Not going to handle this request
 
 - 500 messages, Server Failure Responses
+- 600 messages, Global Failure Responses (Rare occurances)
+
+### SIP Media
+
+RTP - Real Time Protocol (Stream of Traffic)
+RTCP - Real time Control Protocol
+SDP - Session Description Protocol
+Media Path - Transmitted via RTP
+Two Streams - One in each direction
+Media Path communucation - during set up call
+Media stream can change mid call
+- SDP, change made during call
+- Music on hold
+
+### SDP - Session Description Protocol
+
+- Info about media establishment, codec, what type of media, which port.
+
+v=0 - is a session identifer 
+o= is a username and 1 side of connection IP
+s= is a session name
+u= resource
+e= email
+c= Connection data (direction) IP
+t= 
+a= Type e.g. recieve only
+m=
+m=
+a=
+
 
 
 
