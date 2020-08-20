@@ -137,6 +137,8 @@ A private branch exchange (PBX) is a telephone system within an enterprise that 
 
 Ladder Diagram (attach).
 
+Telephone numbers are not used, there are userIDs instead.
+
 # Practical
 
 - Install Wireshark
