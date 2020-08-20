@@ -129,8 +129,13 @@ a=h263 type
 
 B2B-UA = Back to Back User Agent
 
+- Agents, something that it talks to e.g. cisco box, phone, speaker.
 
+PBX, SBC (session border controller), Provider Equipement.
 
+A private branch exchange (PBX) is a telephone system within an enterprise that switches calls between users on local lines, while enabling all users to share a certain number of external phone lines.
+
+LADDER Diagram - 
 
 
 
