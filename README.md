@@ -131,11 +131,18 @@ B2B-UA = Back to Back User Agent
 
 - Agents, something that it talks to e.g. cisco box, phone, speaker.
 
-PBX, SBC (session border controller), Provider Equipement.
+PBX (A private branch exchange), SBC (session border controller), Provider Equipement.
 
 A private branch exchange (PBX) is a telephone system within an enterprise that switches calls between users on local lines, while enabling all users to share a certain number of external phone lines.
 
-LADDER Diagram - 
+Ladder Diagram (attach).
+
+# Practical
+
+- Install Wireshark
+- Review all the network ongoings
+- You can filter by SIP using the Telephony and review all the SIP packets
+
 
 
 
